@@ -13,8 +13,9 @@ Txt splitter is a Python script that takes a txt file and splits it into multipl
 
 - Type command
 ```python txt_splitter.py```
-- Txt file is splitted in 5 parts 
-![End result](files.jpg)
+- Txt file is splitted in 5 parts
+
+![End result](files.JPG)
 
 ## License
 
